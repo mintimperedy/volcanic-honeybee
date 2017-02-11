@@ -1,3 +1,7 @@
 {
+	"things": [
+		{"thing":"one"},
+		{"thing":"two"}
+	],
 	"stuff": "stuff"
 }
